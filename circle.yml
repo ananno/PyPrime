@@ -6,4 +6,4 @@ machine:
 test:
     post:
         command:
-            python piprime.py
+            - python piprime.py
