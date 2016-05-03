@@ -11,4 +11,4 @@ def find_prime(lower, upper):
            else:
                 print(num)
 
-find_prime(100, 200)
+find_prime(100, 500)
