@@ -11,4 +11,4 @@ def find_prime(lower, upper):
            else:
                 print(num)
 
-find_prime(10000, 10500)
+find_prime(20000, 20500)
